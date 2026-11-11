@@ -1,0 +1,9 @@
+# Course-provided dataset — not redistributed here
+data/
+*.csv
+!findings/results/*.csv
+*.zip
+__pycache__/
+.DS_Store
+.venv/
+data

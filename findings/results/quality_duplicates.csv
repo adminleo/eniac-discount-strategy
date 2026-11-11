@@ -1,0 +1,5 @@
+metric,value
+rows,19326
+exact duplicate rows,8746
+skus appearing more than once,757
+such skus whose rows disagree on any column,0

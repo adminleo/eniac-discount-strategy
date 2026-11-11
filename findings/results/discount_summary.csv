@@ -1,0 +1,9 @@
+metric,value
+products with a list price and real sales,7620.0
+ever sold below list price,6878.0
+ever sold below list price (%),90.3
+sold above list price (a separate data problem),118.0
+median discount among discounted products (%),16.9
+25th percentile (%),9.2
+75th percentile (%),27.8
+95th percentile (%),56.8

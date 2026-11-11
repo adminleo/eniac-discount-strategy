@@ -1,0 +1,6 @@
+metric,value
+skus with sales and a promo_price,7848.0
+closer when taken as-is,1064.0
+closer when divided by ten,6784.0
+"median error of the better rule, picked per row with hindsight (%)",1.1
+share the better rule gets within 5 % of the price paid (%),69.4
